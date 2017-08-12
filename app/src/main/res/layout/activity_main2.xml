@@ -7,7 +7,7 @@
     tools:context="app.com.freddybarco.miprimeraaplicacion.Main2Activity">
 
     <EditText
-        android:id="@+id/input"
+        android:id="@+id/input2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
